@@ -1,7 +1,6 @@
 # Olá, Eu sou o Gabriel Rocha ✋
 
   <a href="https://www.linkedin.com/in/gabriel-rocha-santos-2197b6233/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/gabriel_rocha00/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabriellrocha.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 - 👀 Estou interessado em Desenvolvimento de software, criação de projetos em Java, bancos de dados e soluções full stack.
