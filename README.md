@@ -4,7 +4,7 @@
   <a href = "mailto:gabriellrocha.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 - 👀 Estou interessado em Desenvolvimento de software, criação de projetos em Java, bancos de dados e soluções full stack.
-- 🌱 Atualmente estou aprendendo Tecnologias como Java, SQL, desenvolvimento web (HTML, CSS, JavaScript) e boas práticas de versionamento com Git e GitHub.
+- 🌱 Atualmente estou aprendendo Tecnologias como Kotlin, Java, SQL, desenvolvimento web (HTML, CSS, JavaScript) e boas práticas de versionamento com Git e GitHub.
 - 😄 Pronome: Ele/Dele
 
 
